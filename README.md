@@ -2,6 +2,15 @@
 
 ## Overview
 
-This is the first project for the course offered by [The Odin Project](https://www.theodinproject.com/)
+This is the first project for the course offered by [The Odin Project](https://www.theodinproject.com/).
+
+This project's goal is to create a website that will contain a main page that will have links to recipes.
+
+## Skills Demonstrated
+
+Once completed, this project will showcase these skills:
+* Command-line basics
+* Git & Git workflow
+* HTML
 
 
