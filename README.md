@@ -4,14 +4,14 @@
 
 This is the first project for the course offered by [The Odin Project](https://www.theodinproject.com/).
 
-This project's goal is to create a website that will contain a main page that will have links to recipes.
+This project's goal is to create a website that will contain a main page that will have links to several recipes.
 
 ## Skills Demonstrated
 
 Once completed, this project will showcase these skills:
 * Command-line basics
     * File traversal
-    * File creation
+    * Directory and file creation
 * Git & Git workflow
     * git clone
     * git add
@@ -20,5 +20,7 @@ Once completed, this project will showcase these skills:
     * git status
     * git log
 * HTML
-    * Absolute links
-    
+    * HTML boilerplate
+    * Links and images
+    * Absolute and relative links
+    * Ordered and unordered lists
