@@ -24,3 +24,7 @@ Once completed, this project will showcase these skills:
     * Links and images
     * Absolute and relative links
     * Ordered and unordered lists
+
+Recipes and Photos used from
+https://www.allrecipes.com/
+https://www.istockphoto.com/
