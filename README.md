@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the first project for the course offered by [The Odin Project](https://www.theodinproject.com/).
+This is the first project for the course offered by [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
 
 This project's goal is to create a website that will contain a main page that will have links to several recipes.
 
