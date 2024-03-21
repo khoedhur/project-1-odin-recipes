@@ -1,4 +1,4 @@
-# The Odin Project: Recipes
+# The Odin Project 1: Recipes
 
 ## Overview
 
